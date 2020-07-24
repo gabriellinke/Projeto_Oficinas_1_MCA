@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-http://mcautfpr.atwebpages.com/
-=======
-http://mcautfpr.atwebpages.com/
->>>>>>> 6e25a27ed040dcb1a808a2113c55aa40840752e5
+https://mca-utfpr.netlify.app/
