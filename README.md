@@ -5,7 +5,7 @@
 </h1>
 
 ## :construction_worker: Projeto
-Este é um projeto que foi construído como trabalho da disciplina de Oficina de Integração 1. No início da disciplina, foi realizada uma proposta de projeto que foi aprovada pelos professores. Então, durante o semestre, este projeto foi desenvolvido de acordo com os marcos e o cronograma previamente definido. Ao final da disciplina, um relatório foi confeccionado, juntamente com um <a href="https://www.youtube.com/watch?v=pmsYLbH6pVo">vídeo</a> demonstrando o funcionamento do projeto. Para encerrar a disicplina, foi necessário realizar uma apresentação aos professores e à turma. Este reposítório contém todos os documentos supracitados e também uma parte do código utilizado no projeto.
+Este é um projeto que foi construído como trabalho da disciplina de Oficina de Integração 1. No início da disciplina, foi realizada uma proposta de projeto que foi aprovada pelos professores. Então, durante o semestre, este projeto foi desenvolvido de acordo com os marcos e o cronograma previamente definido. Ao final da disciplina, um relatório foi confeccionado, juntamente com um <a href="https://www.youtube.com/watch?v=pmsYLbH6pVo">vídeo</a> demonstrando o funcionamento do projeto. Para encerrar a disciplina, foi necessário realizar uma apresentação aos professores e à turma. Este reposítório contém todos os documentos supracitados e também uma parte do código utilizado no projeto.
 
 
 ## :bookmark: Funcionamento
