@@ -22,6 +22,6 @@ contabiliza o fluxo de água que passa por ele durante o dia e, com esse dado, o
 <img alt="Aplicativo" height="400px" src="https://user-images.githubusercontent.com/51447706/120090207-18b5c780-c0d7-11eb-8a28-81c48522fbec.png" />
 </p>
 
-O download do APK pode ser realizado <a href="https://mca.gabriellinke.tech">aqui.</a>
+O download do APK pode ser realizado <a href="https://mca.gabriellinke.dev.br">aqui.</a>
 
 O código do aplicativo pode ser consultado através do repositório <a href="https://github.com/gabriellinke/App_MCA">App_MCA.</a>
